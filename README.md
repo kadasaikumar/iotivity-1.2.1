@@ -20,7 +20,7 @@
  
  go to out folder , you will see compiled version of Iotivity
  
- for more options please take a look into the README.txt
+ for more options please take a look into the README-building-and-running-remote-access-sample.txt & Readme.scons.txt
    
    
    Credits :
